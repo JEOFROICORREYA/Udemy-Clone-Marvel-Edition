@@ -258,5 +258,9 @@ body {
     .navbar__s4 {
         display: block;
     }
-    
+
+    .sale-image__offer {
+        display: none;
+    }
+
 }
